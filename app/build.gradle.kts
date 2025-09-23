@@ -2,10 +2,14 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
 }
-
 android {
     namespace = "com.unsoed.informatikamobile"
     compileSdk = 36
+
+    viewBinding {
+        enable = true
+    }
+
 
     defaultConfig {
         applicationId = "com.unsoed.informatikamobile"
@@ -15,6 +19,7 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
     }
 
     buildTypes {
@@ -32,6 +37,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = "11"
+    }
+    viewBinding {
+        enable = true
     }
 }
 
