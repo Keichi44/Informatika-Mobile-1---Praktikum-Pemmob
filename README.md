@@ -11,3 +11,8 @@ Tugas 2 - Prak. Pemrograman Mobile - Pertemuan 3
 
 Tampilkan Aplikasi 
 ![Screenshot Aplikasi ](Screenshot/VIDEO1.mp4)
+
+tugas 3 - Prak. Pemrograman Mobile - Pertemuan 3
+
+Tampilkan Aplikasi 
+![Screenshot Aplikasi ](Screenshot/VIDEO2.mp4)
