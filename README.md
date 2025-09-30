@@ -15,4 +15,4 @@ Tampilkan Aplikasi
 tugas 3 - Prak. Pemrograman Mobile - Pertemuan 3
 
 Tampilkan Aplikasi 
-![Screenshot Aplikasi ](Screenshot/VIDEO2.mp4)
+![Screenshot Aplikasi ](Screenshot/VIDEOkedua.mp4)
